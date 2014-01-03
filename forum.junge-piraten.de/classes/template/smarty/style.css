@@ -5,16 +5,16 @@ h1
 	{padding: 8px 0;}
 
 .message
-	{border-radius:4px; border:1px solid #ddd; margin-bottom:15px;}
+	{border-radius:0px; border:1px solid #FFF; margin-bottom:15px;}
 
 .message>.head
-	{background:#f9f9f9; padding:8px; border-bottom:1px solid #ddd;}
+	{background:#f3f3f3; padding:8px; border-bottom:1px solid #f3f3f3;}
 
 .message>.head img.author
 	{float:right; margin-left:8px; margin-bottom:4px;}
 
 .message>.body {
-	padding: 8px;
+	padding: 8px;background-color:#FFFFFF;
 }
 
 .quotetoggle {
@@ -22,7 +22,7 @@ h1
 }
 
 .message>.controls
-	{background:#f9f9f9; padding:8px; border-top:1px solid #ddd;}
+	{background:#f3f3f3; padding:8px; border-top:1px solid #f3f3f3;}
 
 footer#main-footer
 	{margin-left:0px;background-color:#181619;color:#CCC;}
