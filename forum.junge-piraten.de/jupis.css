@@ -77,7 +77,7 @@ a.thumbnail:hover{border-color:#242424;-webkit-box-shadow:0 1px 4px rgba(0, 105,
 	{background:#f3f3f3; padding:8px; border-top:1px solid #f3f3f3;}
 
 footer#main-footer
-	{margin-left:0px;background-color:#181619;color:#CCC;}
+	{margin-left:0px !important;padding-left:20px;background-color:#181619;color:#CCC;}
 
 footer#main-footer p {margin: 0px !important;padding: 0px 10px 10px 10px;}
 
